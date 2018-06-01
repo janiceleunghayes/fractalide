@@ -6,7 +6,7 @@
         "title": "PASCAL",
         "default-expand-on-website": true,
         "render-features-on-website": true,
-        "description": "Pascal represents the initial release of Hyperflow. Hyperflow is a new browser for decentralized applications that may interface with cryptocurrencies and associated smart contracts. It solves the problem of governments and banks censoring people. Once cryptocurrencies scale, whole new domains of economic activity will arise. The activity must develop on infractructure that is decentralized. Not the centralized client-server model of today's point-to-point TCP/IP centralized Internet. A model governments and international corporations already control. Pascal implements the basic infrastructure which allows the building and execution of Fractalide applications in Hyperflow.",
+        "description": "Pascal represents the initial release of Hyperflow. Hyperflow is a new browser for decentralised applications that can interface with cryptocurrencies and associated smart contracts. It solves the problem of government and bank censorship. Once cryptocurrencies scale, entirely new domains of economic activity will arise. The activity will develop on infractructure that is decentralised, as opposed to the centralised client-server model of today's point-to-point TCP/IP centralised Internet, a model that governments and multinational corporations already control. Pascal implements the basic infrastructure that allows the building and execution of Fractalide applications in Hyperflow.",
         "features": [
           {
             "title": "Hyperflow Minimal",
@@ -70,7 +70,7 @@
         "title": "FIBONACCI",
         "default-expand-on-website": true,
         "render-features-on-website": true,
-        "description": "The Fibonacci release builds out the first user facing Fractalide applications. Primarily this will be a Cardano Wallet implementation. It'll be a functional wallet that will implement features similar to that of Daedalus. The only other wallet on the Cardano system",
+        "description": "The Fibonacci release builds out the first user-facing Fractalide dapps. This will primarily be a Cardano wallet implementation, a functional wallet that will implement features similar to those of Daedalus, the only other wallet on the Cardano system.",
         "features": [
           {
             "title": "Cardano Wallet",
